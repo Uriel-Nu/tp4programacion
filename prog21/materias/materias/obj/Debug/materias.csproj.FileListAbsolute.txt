@@ -1,0 +1,10 @@
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\bin\Debug\materias.exe.config
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\bin\Debug\materias.exe
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\bin\Debug\materias.pdb
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.csproj.AssemblyReference.cache
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.Properties.Resources.resources
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.csproj.GenerateResource.cache
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.exe
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.pdb
+C:\Users\Pablo Ocaño\Documents\prog21\materias\materias\obj\Debug\materias.Form1.resources
